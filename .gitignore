@@ -1,0 +1,8 @@
+# Ignorar archivos de base de datos y temporales
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+.DS_Store
+Thumbs.db 
